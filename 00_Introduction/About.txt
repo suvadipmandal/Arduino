@@ -1,0 +1,7 @@
+Arduino is a microcoltroller device which we can programming and control input/output.
+Basically it is use to design small project such as ---
+i)   Robotic
+ii)  IoT
+iii) Bluetooth Control
+iv)  Motion Sensor
+v)   
